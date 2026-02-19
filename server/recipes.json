@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1771530101540,
+    "name": "Creamy Garlic Mushroom Pasta",
+    "description": "Description:\r\nA rich, comforting pasta dish with sautéed mushrooms and a silky garlic cream sauce.\r\n\r\nIngredients (with preparation):\r\n\r\n250g pasta (spaghetti or fettuccine)\r\n\r\n2 cups mushrooms, sliced\r\n\r\n3 cloves garlic, minced\r\n\r\n1 cup heavy cream\r\n\r\n2 tbsp butter\r\n\r\n2 tbsp olive oil\r\n\r\n½ cup parmesan cheese, grated\r\n\r\nSalt & pepper to taste\r\n\r\nFresh parsley, chopped (optional)\r\n\r\nPreparation:\r\nCook pasta until al dente. Heat butter and olive oil, sauté mushrooms until golden. Add garlic, cook briefly. Stir in cream, simmer gently, then add parmesan. Combine with pasta, season, and garnish.",
+    "image": "1771530101524.jpg"
+  },
+  {
+    "id": 1771530263455,
+    "name": "Honey Garlic Chicken",
+    "description": "Description:\r\nTender chicken coated in a glossy, sweet-savory glaze.\r\n\r\nIngredients (with preparation):\r\n\r\n2 chicken breasts, diced\r\n\r\n3 cloves garlic, minced\r\n\r\n3 tbsp honey\r\n\r\n2 tbsp soy sauce\r\n\r\n1 tbsp vinegar or lemon juice\r\n\r\n1 tbsp olive oil\r\n\r\nSalt & pepper\r\n\r\nPreparation:\r\nCook chicken in olive oil until browned. Add garlic. Mix honey, soy sauce, and vinegar, pour in. Simmer until thickened and glossy. Serve with rice or vegetables.",
+    "image": "1771530263451.jpg"
+  },
+  {
+    "id": 1771530746580,
+    "name": "Avocado Toast with Egg",
+    "description": "Description:\r\nSimple, nutritious, and endlessly customizable.\r\n\r\nIngredients (with preparation):\r\n\r\n2 slices bread, toasted\r\n\r\n1 ripe avocado, mashed\r\n\r\n1 egg (fried or poached)\r\n\r\nSalt, pepper, chili flakes\r\n\r\nLemon juice (optional)\r\n\r\nPreparation:\r\nSpread mashed avocado on toast. Top with egg. Season and add lemon juice if desired.",
+    "image": "1771530746578.jpg"
+  },
+  {
+    "id": 1771530793549,
+    "name": "Fresh Mediterranean Salad",
+    "description": "Description:\r\nBright, refreshing, and perfect as a side or light meal.\r\n\r\nIngredients (with preparation):\r\n\r\n1 cucumber, chopped\r\n\r\n2 tomatoes, diced\r\n\r\n¼ red onion, thinly sliced\r\n\r\n½ cup feta cheese, crumbled\r\n\r\nOlives (optional)\r\n\r\n2 tbsp olive oil\r\n\r\n1 tbsp lemon juice\r\n\r\nSalt & pepper\r\n\r\nPreparation:\r\nCombine vegetables. Add feta. Drizzle with olive oil and lemon juice. Toss gently.",
+    "image": "1771530793547.jpg"
+  },
+  {
+    "id": 1771530838674,
+    "name": "Fluffy Pancakes",
+    "description": "Description:\r\nSoft, airy pancakes ideal for breakfast or brunch.\r\n\r\nIngredients (with preparation):\r\n\r\n1 cup flour\r\n\r\n1 tbsp sugar\r\n\r\n1 tsp baking powder\r\n\r\n1 egg\r\n\r\n¾ cup milk\r\n\r\n1 tbsp melted butter\r\n\r\nPinch of salt\r\n\r\nPreparation:\r\nMix dry ingredients. Whisk wet ingredients separately, combine. Cook batter on medium heat until bubbles form, flip.",
+    "image": "1771530838672.jpeg"
+  },
+  {
+    "id": 1771530887562,
+    "name": "Quick Chocolate Mug Cake",
+    "description": "Description:\r\nA fast dessert ready in minutes.\r\n\r\nIngredients (with preparation):\r\n\r\n4 tbsp flour\r\n\r\n2 tbsp cocoa powder\r\n\r\n2 tbsp sugar\r\n\r\n3 tbsp milk\r\n\r\n2 tbsp oil\r\n\r\nSmall pinch baking powder\r\n\r\nPreparation:\r\nMix all ingredients in a mug until smooth. Microwave 60–90 seconds. Cool slightly before eating.",
+    "image": "1771530887561.jpg"
+  }
+]
