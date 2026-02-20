@@ -62,7 +62,7 @@ npm install
 Start Backend
 
 cd server
-npm start
+node server.js
 --------
 Start Frontend
 
