@@ -35,38 +35,6 @@ recipe-sharing-app
 ├── client → React frontend
 ├── server → Backend API
 
-recipe-sharing-app/
-│
-├── client/
-│   ├── public/
-│   │
-│   ├── src/
-│   │   │
-│   │   ├── components/
-│   │   │   ├── Navbar.jsx
-│   │   │   ├── Footer.jsx
-│   │   │   ├── ScrollToTop.jsx
-│   │   │
-│   │   ├── pages/
-│   │   │   ├── Home.jsx
-│   │   │   ├── RecipeDetails.jsx
-│   │   │   ├── UploadRecipe.jsx
-│   │   │   ├── ViewRecipe.jsx
-│   │   │
-│   │   ├── App.js
-│   │   ├── index.js
-│   │
-│   ├── package.json
-│
-├── server/
-│   ├── node_modules/
-│   ├── uploads/
-│   ├── recipes.json
-│   ├── server.js
-│   ├── package.json
-│
-└── README.md
-
 ---
 
 ## 🚀 Getting Started
